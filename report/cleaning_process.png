@@ -1,0 +1,2 @@
+data$Age[is.na(data$Age)] <-
+    median(data$Age, na.rm = TRUE)
