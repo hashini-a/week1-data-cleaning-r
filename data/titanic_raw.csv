@@ -1,0 +1,9 @@
+titanic_raw.csv
+       ↓
+R Script
+       ↓
+Cleaning
+       ↓
+Transformation
+       ↓
+titanic_cleaned.csv
